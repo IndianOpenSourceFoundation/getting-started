@@ -7,7 +7,7 @@ different programming languages and libraries;
 
 * Dynamic CLI
 
-## JavaScript, React JS HTML5 and Balma CSS
+## JavaScript, HTML5 and [Bulma CSS](https://bulma.io/)
 
 * IOSF Website
 
