@@ -7,14 +7,6 @@ cooperative efforts.
 
 At IOSF we have taken a pledge to make open source contribution simplified. Join us in our journey and let's create effective products on our way.
 
-
-
-This Code of Conduct covers your behavior as a member of the Sugar
-Labs community, in any forum, mailing list, wiki, web site, IRC
-channel, code-sprint, public meeting, or private correspondence. The
-Oversight Board will arbitrate in any dispute over the conduct of a
-member of the community.
-
 <strong><font color="red">Note </font> </strong>- <strong>We have agreed upon the following Code of Conduct as
 a guide to our collaboration and cooperation. </strong>
 
