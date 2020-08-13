@@ -13,8 +13,7 @@ a guide to our collaboration and cooperation. </strong>
 Be considerate
 --------------
 
-Your work will be used by other people in our community. Any decision you take will affect users and colleagues, and we expect you to take those consequences into account.
-when making decisions. For example, when we are working with a new feature please don't anything that will affect the product directly. 
+Your work will be used by other people in our community. Any decision taken by you can affect other users and colleagues. We expect you to take those consequences into account while making decisions. For example, when we are working with a new feature, please don't do anything that can affect the product directly. 
 
 
 Be respectful
@@ -23,7 +22,7 @@ Be respectful
 IOSF community and its members treat one another with
 respect. Everyone can make a valuable contribution to our organisation. We may
 not always agree, but disagreement is no excuse for poor behavior and
-poor manners. We might all experience some frustration now and then,
+poor manners. We all might experience some frustration now and then,
 but we cannot allow that frustration to turn into a personal
 attack. It's important to remember that a community where people feel
 uncomfortable or threatened is not a productive one. We expect members
@@ -50,7 +49,7 @@ When you are unsure, ask for help
 ---------------------------------
 
 Nobody knows everything, and nobody is expected to be perfect in our community. Asking questions avoids many problems down the road,
-and so questions are encouraged. Those who are asked should be
+therefore, cross questioning is encouraged. Those who are asked should be
 responsive and helpful. 
 
 Mailing lists and web forums
