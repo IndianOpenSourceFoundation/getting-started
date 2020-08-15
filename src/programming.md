@@ -11,7 +11,6 @@ different programming languages and libraries;
 
 * IOSF Website
 
-
 ## Anything New
 
 * as long as it works, and you can demonstrate it works, and it
